@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://indiainsight7.blogspot.com/2025/07/saiyaara-box-office-collection-day-10.html</loc>
+<changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>India Insight</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-23T08:00:00Z</news:publication_date>
+      <news:title>Saiyaara Box Office Collection Day 10</news:title>
+    </news:news>
+  </url>
+
+  <url>
+    <loc>https://indiainsight7.blogspot.com/2025/07/Hari-Hara-Veera-Mallu-Box-Office-Collection-Day-4.html</loc>
+    <changefreq>hourly</changefreq>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication>
+        <news:name>India Insight</news:name>
+        <news:language>hi</news:language>
+      </news:publication>
+      <news:publication_date>2025-07-23T08:00:00Z</news:publication_date>
+      <news:title>Hari Hara Veera Mallu Box Office Collection Day 4</news:title>
+    </news:news>
+  </url>
+
+</urlset>
